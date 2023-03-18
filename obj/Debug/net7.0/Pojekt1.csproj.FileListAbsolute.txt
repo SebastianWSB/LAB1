@@ -1,0 +1,15 @@
+C:\Users\Sebastian\Desktop\Studia WSB\Podstawy Programowania\Repo\Pojekt1\Pojekt1\bin\Debug\net7.0\Pojekt1.exe
+C:\Users\Sebastian\Desktop\Studia WSB\Podstawy Programowania\Repo\Pojekt1\Pojekt1\bin\Debug\net7.0\Pojekt1.deps.json
+C:\Users\Sebastian\Desktop\Studia WSB\Podstawy Programowania\Repo\Pojekt1\Pojekt1\bin\Debug\net7.0\Pojekt1.runtimeconfig.json
+C:\Users\Sebastian\Desktop\Studia WSB\Podstawy Programowania\Repo\Pojekt1\Pojekt1\bin\Debug\net7.0\Pojekt1.dll
+C:\Users\Sebastian\Desktop\Studia WSB\Podstawy Programowania\Repo\Pojekt1\Pojekt1\bin\Debug\net7.0\Pojekt1.pdb
+C:\Users\Sebastian\Desktop\Studia WSB\Podstawy Programowania\Repo\Pojekt1\Pojekt1\obj\Debug\net7.0\Pojekt1.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Desktop\Studia WSB\Podstawy Programowania\Repo\Pojekt1\Pojekt1\obj\Debug\net7.0\Pojekt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\Desktop\Studia WSB\Podstawy Programowania\Repo\Pojekt1\Pojekt1\obj\Debug\net7.0\Pojekt1.AssemblyInfoInputs.cache
+C:\Users\Sebastian\Desktop\Studia WSB\Podstawy Programowania\Repo\Pojekt1\Pojekt1\obj\Debug\net7.0\Pojekt1.AssemblyInfo.cs
+C:\Users\Sebastian\Desktop\Studia WSB\Podstawy Programowania\Repo\Pojekt1\Pojekt1\obj\Debug\net7.0\Pojekt1.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\Studia WSB\Podstawy Programowania\Repo\Pojekt1\Pojekt1\obj\Debug\net7.0\Pojekt1.dll
+C:\Users\Sebastian\Desktop\Studia WSB\Podstawy Programowania\Repo\Pojekt1\Pojekt1\obj\Debug\net7.0\refint\Pojekt1.dll
+C:\Users\Sebastian\Desktop\Studia WSB\Podstawy Programowania\Repo\Pojekt1\Pojekt1\obj\Debug\net7.0\Pojekt1.pdb
+C:\Users\Sebastian\Desktop\Studia WSB\Podstawy Programowania\Repo\Pojekt1\Pojekt1\obj\Debug\net7.0\Pojekt1.genruntimeconfig.cache
+C:\Users\Sebastian\Desktop\Studia WSB\Podstawy Programowania\Repo\Pojekt1\Pojekt1\obj\Debug\net7.0\ref\Pojekt1.dll
